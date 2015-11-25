@@ -1,4 +1,4 @@
-# [Uniq.site](https://unq.site)
+# [Uniq.site](https://uniq.site)
 An unique name & domain generator
 
 #### Are you familiar with Git and GitHub
