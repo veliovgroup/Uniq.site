@@ -7,7 +7,7 @@
 
 ### If you aren't familiar with Git and GitHub
 We have two options for you:
-  - Your's contributions always welcome at [our mailbox](mailto:info@uniq.site), just drop an email with your changes
+  - Your's contributions always welcome at <a href='mai&#108;to&#58;inf&#37;6F&#64;u%6&#69;&#105;q&#46;si&#116;&#101;'>our mailbox</a>, just drop an email with your changes
   - DM or mention [@VeliovGroup](https://twitter.com/VeliovGroup) on Twitter
 
 

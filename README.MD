@@ -22,7 +22,7 @@ Thank you for visiting our repository, here you can:
      5. Wait for our response
 
 ### If you aren't familiar with Git and GitHub
-Your's emails always welcome at [our mailbox](mailto:info@uniq.site).
+Your's emails always welcome at <a href='mai&#108;to&#58;inf&#37;6F&#64;u%6&#69;&#105;q&#46;si&#116;&#101;'>our mailbox</a>.
 You may email us about suggestion, improvement, translations mistakes or anything else
  - You may DM or mention [@VeliovGroup](https://twitter.com/VeliovGroup) on Twitter
  - If you have GitHub account or ready to create one - you may [submit an issue](https://github.com/VeliovGroup/Uniq.site/issues) via GitHub
