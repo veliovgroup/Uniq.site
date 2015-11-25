@@ -1,0 +1,48 @@
+{
+  "brandSign": "namensgenerator",
+  "shareTitle": "Teilen Sie diese Namen!",
+  "symbols": "symbole",
+  "generate": {
+    "text": "Erzeugen",
+    "annotation": "Oder drücken <kbd>Leertaste</kbd>",
+    "title": "Erzeugt neuen namen"
+  },
+  "starred":{
+    "title": "Dieser Name wird Favorit",
+    "unstar": "Aus Favoriten entfernen",
+    "star": "Zu Favoriten hinzufügen"
+  },
+  "history":{
+    "showTitle": "Gesamtverlauf anzeigen",
+    "showFavsTitle": "Favoriten Nur",
+    "hideTitle": "Geschichte ausblenden",
+    "openTitle": "Öffnen Geschichte"
+  },
+  "generated":{
+    "placeholder": "Knopf drücken \"Erzeugen\""
+  },
+  "XLSX":{
+    "preparing": "Vorbereitung Ihrer Excel-Datei...",
+    "download": "Laden Lieblingsbuch als Excel-Datei"
+  },
+  "domains":{
+    "loading": "<br/>Suchen nach<br/>verfügbaren Domains...",
+    "buy": "Kaufen diese Domain"
+  },
+  "meta":{
+    "title": "Eindeutiger Namen Generator",
+    "description": "Eindeutigen Namen und Website-Generator. Lassen Sie sich inspirieren und finden Sie heraus kurzen Domain für Ihr neues Projekt.",
+    "keywords": "inspiration, inspirieren sie, kurze, Domain, Domains, 3 Buchstaben Domain, 3 Buchstaben Domain, mit 3 Buchstaben, 3 Buchstaben, kurze Domain, einzigartig, uniq, Name, Website, Projekt, erzeugen, Generator, Name Generator, Website-Generator, Projekt Generator"
+  },
+  "404":{
+    "title": "Leider, Seite nicht gefunden",
+    "link": "Zur startseite gehen"
+  },
+  "translation":{
+    "git": "Hinzuzufügen oder zu verbessern Übersetzung"
+  },
+  "contacts":{
+    "contactUs": "Kontaktiere uns",
+    "issue": "Ein Problem abschicken"
+  }
+}

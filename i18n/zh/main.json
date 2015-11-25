@@ -1,0 +1,48 @@
+{
+  "brandSign": "名生成器",
+  "shareTitle": "分享这个名字！",
+  "symbols": "字符",
+  "generate": {
+    "text": "生成",
+    "annotation": "或者按 <kbd>空格键</kbd>",
+    "title": "生成新名称"
+  },
+  "starred":{
+    "title": "这个名字是最爱",
+    "unstar": "从收藏夹中删除名称",
+    "star": "添加名称到收藏夹"
+  },
+  "history":{
+    "showTitle": "显示所有历史记录",
+    "showFavsTitle": "仅显示收藏夹",
+    "hideTitle": "关闭历史",
+    "openTitle": "打开历史记录"
+  },
+  "generated":{
+    "placeholder": "按下按钮 \"生成\""
+  },
+  "XLSX":{
+    "preparing": "准备您的Excel文件...",
+    "download": "下载所有的收藏作为Excel文件"
+  },
+  "domains":{
+    "loading": "<br/>检查可用域...",
+    "buy": "购买此域名"
+  },
+  "meta":{
+    "title": "独特名生成器",
+    "description": "唯一的名称和网站成器。获取灵感，并找出简短的域名为您的新项目。",
+    "keywords": "灵感，启发，域，3个字母的域名，3字母域名，3个字母，简短的域名，uniq，生成称，网站，项目 成器，生成，发电机，名生成，网站生成器，生成 项目"
+  },
+  "404":{
+    "title": "对不起，找不到网页",
+    "link": "转到主页"
+  },
+  "translation":{
+    "git": "添加或提高翻译"
+  },
+  "contacts":{
+    "contactUs": "联系我们",
+    "issue": "提交问题"
+  }
+}

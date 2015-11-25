@@ -1,0 +1,48 @@
+{
+  "brandSign": "name generator",
+  "shareTitle": "Share this name!",
+  "symbols": "characters",
+  "generate": {
+    "text": "Generate",
+    "annotation": "Or press <kbd>spacebar</kbd>",
+    "title": "Generate new name"
+  },
+  "starred":{
+    "title": "This name is starred",
+    "unstar": "Unstar this name",
+    "star": "Star this name"
+  },
+  "history":{
+    "showTitle": "Show full history",
+    "showFavsTitle": "Show starred names only",
+    "hideTitle": "Hide History",
+    "openTitle": "Open History"
+  },
+  "generated":{
+    "placeholder": "Press Generate Button"
+  },
+  "XLSX":{
+    "preparing": "Preparing your Excel file...",
+    "download": "Download all starred names as Excel file"
+  },
+  "domains":{
+    "loading": "<br/>Checking for<br/>available domains...",
+    "buy": "Buy this domain"
+  },
+  "meta":{
+    "title": "Unique name generator",
+    "description": "Unique name and website generator. Get inspiration and find out short domain for your new project. We took the best practices from web design and computer learning and combine them together, so you may enjoy by experience of generating unique, human-readable and easy pronounceable name for your new brand, website and/or project. We've created really stunning interface, while under the hood we used the best practices of machine learning, to generate right word to meet your need. Also aside to name generation, it will look for available domains, you will not believe, but even project with name of 3-letter length - will find 3-letter length domain name.",
+    "keywords": "inspiration, inspire, short, domain, domains, 3-letter domain, 3 letter domain, 3-letter, 3 letter, short domain, unique, uniq, name, website, project, generate, generator, name generator, website generator, project generator"
+  },
+  "404":{
+    "title": "Sorry, page not found",
+    "link": "Go to main page"
+  },
+  "translation":{
+    "git": "Add or improve translation"
+  },
+  "contacts":{
+    "contactUs": "Contact Us",
+    "issue": "Submit an issue"
+  }
+}
