@@ -13,6 +13,7 @@ Thank you for visiting our repository, here you can:
  - Improve current translation or contribute new translation:
    * FYI: Translation(s) are called *Internalization* or simply - i18n, the files it consists of is called *localizations* or simply - l10n
    * FYI: Internalization lives in [i18n](https://github.com/VeliovGroup/Uniq.site/tree/master/i18n) directory of this repository, and localization files might be obtained in child folders, which named by two-letter country code ([ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2))
+   * FYI: Each *i18n* folder has a screenshot, so you may see where words and phrases are used, all screenshots available in [this commit](https://github.com/VeliovGroup/Uniq.site/commit/02422b70eb2dc613b47fb368c614ba0bbfeed9b5)
    * To put your hands on contribution:
      1. Clone this repository into your GitHub account
      2. [Setup to desktop app](github-mac://openRepo/https://github.com/VeliovGroup/Uniq.site), copy via https `https://github.com/VeliovGroup/Uniq.site.git` or copy via SSH `git@github.com:VeliovGroup/Uniq.site.git`

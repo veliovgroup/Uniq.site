@@ -9,3 +9,6 @@
 We have two options for you:
   - Your's contributions always welcome at [our mailbox](mailto:info@uniq.site), just drop an email with your changes
   - DM or mention [@VeliovGroup](https://twitter.com/VeliovGroup) on Twitter
+
+
+FYI: Each *i18n* folder has a screenshot, so you may see where words and phrases are used, all screenshots available in [this commit](https://github.com/VeliovGroup/Uniq.site/commit/02422b70eb2dc613b47fb368c614ba0bbfeed9b5)
