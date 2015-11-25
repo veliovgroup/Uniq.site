@@ -1,6 +1,8 @@
 # [Uniq.site](https://uniq.site)
 An unique name & domain generator
 
+![An unique name & domain generator](https://raw.githubusercontent.com/VeliovGroup/Uniq.site/master/icon.png)
+
 #### Are you familiar with Git and GitHub
  - [Yes, I am](#if-youre-familiar-with-git-and-github)
  - [Nope, I am not](#if-you-arent-familiar-with-git-and-github)
