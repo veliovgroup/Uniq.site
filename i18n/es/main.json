@@ -1,5 +1,5 @@
 {
-  "brandSign": "generador de nombres",
+  "brandSign": "generador de título",
   "shareTitle": "Comparte este nombre!",
   "symbols": "letras",
   "generate": {
@@ -30,9 +30,9 @@
     "buy": "Comprar este dominio"
   },
   "meta":{
-    "title": "Generador de Nombre único",
-    "description": "Nombre único y generador de sitio web. Obtén inspiración y averiguar corta de dominio para su nuevo proyecto.",
-    "keywords": "inspiración, inspire, de dominio, dominios, dominio de 3 letras, 3 dominio letras, 3 letras, 3 letras, dominio corto, único, uniq, nombre, sitio web, proyecto, generar, generador, generador de nombres, generador de sitio web, generador de proyecto"
+    "title": "Título al azar generador",
+    "description": "Al azar generador el título para proyectos, campañas, marcas, compañías y nombres de dominio.  Proceso creativo de búsqueda inspirará la decisión correcta. Por otra parte, nosotros le ayudaremos a encontrar un magnífico dominio de nombre / título (dirección web). Generar un nombre para su barco, yate, mascota, nombre de usuario / apodo, dirección de correo electrónico, página web, libro, poema, canción, musical álbum / pista, película, coche, etc. Sólo tiene que utilizar su imaginación y nuestra recursos para éxito!",
+    "keywords": "inspiración, inspirar, dominio, dominios, dominio corto, único, uniq, nombre, sitio web, proyecto, generar, generador, título, al azar"
   },
   "404":{
     "title": "Lo sentimos, la página no encontrada",
