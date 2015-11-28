@@ -16,7 +16,15 @@
     "showTitle": "显示所有历史记录",
     "showFavsTitle": "仅显示收藏夹",
     "hideTitle": "关闭历史",
-    "openTitle": "打开历史记录"
+    "openTitle": "打开历史记录",
+    "removeFavorites":{
+      "confirm": "删除所有收藏夹？",
+      "title": "删除所有收藏夹"
+    },
+    "removeHistory": {
+      "confirm": "删除整个历史？",
+      "title": "清空历史"
+    }
   },
   "generated":{
     "placeholder": "按下按钮 \"生成\""

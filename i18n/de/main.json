@@ -16,7 +16,15 @@
     "showTitle": "Gesamtverlauf anzeigen",
     "showFavsTitle": "Favoriten Nur",
     "hideTitle": "Geschichte ausblenden",
-    "openTitle": "Öffnen Geschichte"
+    "openTitle": "Öffnen Geschichte",
+    "removeFavorites":{
+      "confirm": "Entfernen Lieblingsnamen?",
+      "title": "Löschen Lieblingsnamen"
+    },
+    "removeHistory": {
+      "confirm": "Löschen Sie die ganze Geschichte?",
+      "title": "Entfernen Geschichte"
+    }
   },
   "generated":{
     "placeholder": "Knopf drücken \"Erzeugen\""

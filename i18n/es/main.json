@@ -16,7 +16,15 @@
     "showTitle": "Mostrar historial completo",
     "showFavsTitle": "Mostrar sólo nombres favoritos",
     "hideTitle": "Ocultar historia",
-    "openTitle": "Ver el historial"
+    "openTitle": "Ver el historial",
+    "removeFavorites":{
+      "confirm": "Retire nombres favoritos?",
+      "title": "Retire favoritos"
+    },
+    "removeHistory": {
+      "confirm": "Retire todo el tema de la historia?",
+      "title": "Borrar historial"
+    }
   },
   "generated":{
     "placeholder": "Prensa \"Generar\""

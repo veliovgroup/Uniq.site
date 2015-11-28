@@ -16,7 +16,15 @@
     "showTitle": "Show full history",
     "showFavsTitle": "Show starred names only",
     "hideTitle": "Hide History",
-    "openTitle": "Open History"
+    "openTitle": "Open History",
+    "removeFavorites":{
+      "confirm": "You're about to remove all starred names. Please confirm. You may would like to download all starred names before removing, to do so - open domains (left) sidebar and find download button there.",
+      "title": "Delete all starred names"
+    },
+    "removeHistory": {
+      "confirm": "You're about to empty history. Please confirm.",
+      "title": "Empty history"
+    }
   },
   "generated":{
     "placeholder": "Press Generate Button"
