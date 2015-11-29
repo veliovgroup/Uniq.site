@@ -30,8 +30,8 @@
     "placeholder": "按下按钮 \"生成\""
   },
   "XLSX":{
-    "preparing": "准备您的Excel文件...",
-    "download": "下载所有的收藏作为Excel文件"
+    "preparing": "准备您的文件...",
+    "download": "下载所有的收藏作为文件"
   },
   "domains":{
     "loading": "<br/>检查可用域...",
@@ -52,5 +52,8 @@
   "contacts":{
     "contactUs": "联系我们",
     "issue": "提交问题"
+  },
+  "words":{
+    "more": "还"
   }
 }

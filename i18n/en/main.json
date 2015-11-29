@@ -30,8 +30,8 @@
     "placeholder": "Press Generate Button"
   },
   "XLSX":{
-    "preparing": "Preparing your Excel file...",
-    "download": "Download all starred names as Excel file"
+    "preparing": "Preparing your Text file...",
+    "download": "Download all starred names as Text file"
   },
   "domains":{
     "loading": "<br/>Checking for<br/>available domains...",
@@ -52,5 +52,8 @@
   "contacts":{
     "contactUs": "Contact Us",
     "issue": "Submit an issue"
+  },
+  "words":{
+    "more": "more"
   }
 }

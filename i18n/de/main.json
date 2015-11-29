@@ -30,8 +30,8 @@
     "placeholder": "Knopf drücken \"Erzeugen\""
   },
   "XLSX":{
-    "preparing": "Vorbereitung Ihrer Excel-Datei...",
-    "download": "Laden Lieblingsbuch als Excel-Datei"
+    "preparing": "Vorbereitung Ihrer Text-Datei...",
+    "download": "Laden Lieblingsbuch als Text-Datei"
   },
   "domains":{
     "loading": "<br/>Suchen nach<br/>verfügbaren Domains...",
@@ -52,5 +52,8 @@
   "contacts":{
     "contactUs": "Kontaktiere uns",
     "issue": "Ein Problem abschicken"
+  },
+  "words":{
+    "more": "noch"
   }
 }

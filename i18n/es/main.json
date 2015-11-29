@@ -30,8 +30,8 @@
     "placeholder": "Prensa \"Generar\""
   },
   "XLSX":{
-    "preparing": "Preparación del archivo de Excel...",
-    "download": "Descargar todas sus nombres favoritos en forma de Excel-file"
+    "preparing": "Preparación del archivo de Text...",
+    "download": "Descargar todas sus nombres favoritos en forma de Text-file"
   },
   "domains":{
     "loading": "<br/>Comprobación<br/>de dominios disponibles...",
@@ -52,5 +52,8 @@
   "contacts":{
     "contactUs": "Contáctenos",
     "issue": "Presentar un problema"
+  },
+  "words":{
+    "more": "más"
   }
 }
