@@ -11,4 +11,4 @@ We have two options for you:
   - DM or mention [@VeliovGroup](https://twitter.com/VeliovGroup) on Twitter
 
 
-FYI: Each *i18n* folder has a screenshot, so you may see where words and phrases are used, all screenshots available in [this commit](https://github.com/VeliovGroup/Uniq.site/commit/02422b70eb2dc613b47fb368c614ba0bbfeed9b5)
+FYI: Each *i18n* folder has a screenshot, so you may see where words and phrases are used, all screenshots available in [this commit](https://github.com/VeliovGroup/Uniq.site/commit/dec440835c68000ebe7abef0f5ca177603b4cd98)
