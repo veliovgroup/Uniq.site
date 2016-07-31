@@ -2,6 +2,7 @@ _app.i18n.es =
   brandSign: 'generador de título'
   shareTitle: 'Comparte este nombre!'
   symbols: 'letras'
+  symbols_: 'letras'
   generate:
     text: 'Generar'
     annotation: 'O presione la <kbd>barraespaciadora</kbd>'

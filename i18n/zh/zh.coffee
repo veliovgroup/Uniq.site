@@ -2,6 +2,7 @@ _app.i18n.zh =
   brandSign: '名生成器'
   shareTitle: '分享这个名字！'
   symbols: '符号'
+  symbols_: '符号'
   generate:
     text: '生成'
     annotation: '或者按 <kbd>空格键</kbd>'

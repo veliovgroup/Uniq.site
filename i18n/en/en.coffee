@@ -1,7 +1,8 @@
 _app.i18n.en = 
-  brandSign: 'name generator'
+  brandSign: 'names generator'
   shareTitle: 'Share this name!'
   symbols: 'characters'
+  symbols_: 'characters'
   generate:
     text: 'Generate'
     annotation: 'Or press <kbd>spacebar</kbd>'

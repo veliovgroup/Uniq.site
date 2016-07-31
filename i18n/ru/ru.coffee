@@ -2,6 +2,7 @@ _app.i18n.ru =
   brandSign: 'генератор имен'
   shareTitle: 'Поделиться этим именем!'
   symbols: 'символов'
+  symbols_: 'символа'
   generate:
     text: 'Сгенерировать'
     annotation: 'Или нажмите <kbd>пробел</kbd>'

@@ -1,8 +1,22 @@
 # [Uniq.site](https://uniq.site)
-An unique name & domain generator
+An unique name, domain and brand generator
 
 ![An unique name & domain generator](https://raw.githubusercontent.com/VeliovGroup/Uniq.site/master/icon.png)
 
+#### About project
+Uniq.site is meaningless, random naming service, for domain names, brands and titles.
+
+Key features:
+ - Create inspirational and eye stunning naming service
+ - Generate pronounceable, meaningless English words with pre-setted length
+ - Set your own key words or phrase
+ - Preview generated word in most classic fonts
+ - Look up for available domains, based on generated word
+ - Share naming process with your friends an colleagues (The Collaboration Mode)
+ - Share your experience in social networks
+
+
+### Add or improve translation:
 #### Are you familiar with Git and GitHub
  - [Yes, I am](#if-youre-familiar-with-git-and-github)
  - [Nope, I am not](#if-you-arent-familiar-with-git-and-github)

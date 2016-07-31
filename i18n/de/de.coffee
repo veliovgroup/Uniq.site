@@ -2,6 +2,7 @@ _app.i18n.de =
   brandSign: 'namensgenerator'
   shareTitle: 'Teilen Sie diese Namen!'
   symbols: 'symbole'
+  symbols_: 'symbole'
   generate:
     text: 'Erzeugen'
     annotation: 'Oder drücken <kbd>Leertaste</kbd>'
