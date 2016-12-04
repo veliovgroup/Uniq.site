@@ -1,20 +1,33 @@
 # [Uniq.site](https://uniq.site)
 An unique name, domain and brand generator
 
-![An unique name & domain generator](https://raw.githubusercontent.com/VeliovGroup/Uniq.site/master/icon.png)
-
 #### About project
 Uniq.site is meaningless, random naming service, for domain names, brands and titles.
 
 Key features:
  - Create inspirational and eye stunning naming service
- - Generate pronounceable, meaningless English words with pre-setted length
+ - Generate pronounceable, meaningless English words, with desired length
  - Set your own key words or phrase
  - Preview generated word in most classic fonts
  - Look up for available domains, based on generated word
  - Share naming process with your friends an colleagues (The Collaboration Mode)
  - Share your experience in social networks
 
+URL: [https://uniq.site](https://uniq.site/en)
+App is available in next languages:
+ - [English](https://uniq.site/en)
+ - [Russian](https://uniq.site/ru)
+ - [Spanish](https://uniq.site/es)
+ - [German](https://uniq.site/de)
+ - [Chinese](https://uniq.site/zh)
+
+![An unique name & domain generator](https://raw.githubusercontent.com/VeliovGroup/Uniq.site/master/showcase.jpeg)
+
+
+App was renewed for better performance after getting to CSS and JS rendering optimizations, we definitely recommend to take a look on next resources:
+ - [Rendering Performance Fundamentals by Google](https://developers.google.com/web/fundamentals/performance/rendering/)
+ - [On-line course by Udacity with collaboration with Google](https://www.udacity.com/ud860)
+ - [Rendering optimization articles and news by jankfree.com](http://jankfree.org)
 
 ### Add or improve translation:
 #### Are you familiar with Git and GitHub
