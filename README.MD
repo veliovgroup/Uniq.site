@@ -13,13 +13,15 @@ Key features:
  - Share naming process with your friends an colleagues (The Collaboration Mode)
  - Share your experience in social networks
 
-URL: [https://uniq.site](https://uniq.site/en)
+URL: [uniq.site](https://uniq.site/en)
+
 App is available in next languages:
  - [English](https://uniq.site/en)
  - [Russian](https://uniq.site/ru)
  - [Spanish](https://uniq.site/es)
  - [German](https://uniq.site/de)
  - [Chinese](https://uniq.site/zh)
+
 
 ![An unique name & domain generator](https://raw.githubusercontent.com/VeliovGroup/Uniq.site/master/showcase.jpeg)
 
